@@ -1,0 +1,236 @@
+// Configuration file
+{
+  "configuration":{
+    "services":{
+      "nembro":{
+        "nome":"nembro",
+        "porta":":3061",
+        "defPosition":[
+          45.742182,
+          9.763692
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "reggio calabria":{
+        "nome":"reggio calabria",
+        "porta":":3062",
+        "defPosition":[
+          38.116678,
+          15.659172
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "ranica":{
+        "nome":"ranica",
+        "porta":":3063",
+        "defPosition":[
+          45.7270603,
+          9.713508
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "alzano lombardo":{
+        "nome":"alzano lombardo",
+        "porta":":3064",
+        "defPosition":[
+          45.7313435,
+          9.7275516
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "cene e gazzaniga":{
+        "nome":"cene e gazzaniga",
+        "porta":":3065",
+        "defPosition":[
+          45.7791973,
+          9.8256118
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "pradalunga":{
+        "nome":"pradalunga",
+        "porta":":3066",
+        "defPosition":[
+          45.7485908,
+          9.7867757
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "villa di serio":{
+        "nome":"villa di serio",
+        "porta":":3067",
+        "defPosition":[
+          45.7210375,
+          9.7355755
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "morlupo":{
+        "nome":"morlupo",
+        "porta":":3068",
+        "defPosition":[
+          42.148050,
+          12.501879
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "marcellina":{
+        "nome":"marcellina",
+        "porta":":3069",
+        "defPosition":[
+          42.022937,
+          12.806628
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "villacidro":{
+        "nome":"villacidro",
+        "porta":":3070",
+        "defPosition":[
+          39.458172,
+          8.740080
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "santoreste":{
+        "nome":"sant oreste",
+        "porta":":3071",
+        "defPosition":[
+          42.235529,
+          12.516378
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      },
+      "taurianova":{
+        "nome":"taurianova",
+        "porta":":3072",
+        "defPosition":[
+          38.353109,
+          16.017077
+        ],
+        "contatti": {
+          "telefono" : "0123456789",
+          "email" : "email@avrgroup.it",
+          "faceboook" : "pagina facebook",
+          "sede" : "sede",
+          "numeroverde" : "800 000 000",
+          "fax" : "fax",
+          "comune_email" : "email del comune",
+          "comune_telefono" : "telefono del comune"
+        },
+        "img" : "null"
+      }
+    },
+    "version":"2.1.10"
+  }
+}
