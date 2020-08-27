@@ -1,12 +1,12 @@
 {
    "configuration":{
       "services":{
-         "nembro":{
-            "nome":"nembro",
+         "sava":{
+            "nome":"sava",
             "porta":"3061",
             "defPosition":[
-               45.742182,
-               9.763692
+               40.403889,
+               17.557054
             ],
             "contatti":{
                "telefono":"0123456789",
