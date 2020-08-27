@@ -3,7 +3,7 @@
       "services":{
          "nembro":{
             "nome":"nembro",
-            "porta":":3061",
+            "porta":"3061",
             "defPosition":[
                45.742182,
                9.763692
@@ -26,7 +26,7 @@
          },
          "reggio calabria":{
             "nome":"reggio calabria",
-            "porta":":3062",
+            "porta":"3062",
             "defPosition":[
                38.116678,
                15.659172
@@ -49,7 +49,7 @@
          },
          "ranica":{
             "nome":"ranica",
-            "porta":":3063",
+            "porta":"3063",
             "defPosition":[
                45.7270603,
                9.713508
@@ -72,7 +72,7 @@
          },
          "alzano lombardo":{
             "nome":"alzano lombardo",
-            "porta":":3064",
+            "porta":"3064",
             "defPosition":[
                45.7313435,
                9.7275516
@@ -95,7 +95,7 @@
          },
          "cene e gazzaniga":{
             "nome":"cene e gazzaniga",
-            "porta":":3065",
+            "porta":"3065",
             "defPosition":[
                45.7791973,
                9.8256118
@@ -118,7 +118,7 @@
          },
          "pradalunga":{
             "nome":"pradalunga",
-            "porta":":3066",
+            "porta":"3066",
             "defPosition":[
                45.7485908,
                9.7867757
@@ -141,7 +141,7 @@
          },
          "villa di serio":{
             "nome":"villa di serio",
-            "porta":":3067",
+            "porta":"3067",
             "defPosition":[
                45.7210375,
                9.7355755
@@ -164,7 +164,7 @@
          },
          "morlupo":{
             "nome":"morlupo",
-            "porta":":3068",
+            "porta":"3068",
             "defPosition":[
                42.148050,
                12.501879
@@ -187,7 +187,7 @@
          },
          "marcellina":{
             "nome":"marcellina",
-            "porta":":3069",
+            "porta":"3069",
             "defPosition":[
                42.022937,
                12.806628
@@ -210,7 +210,7 @@
          },
          "villacidro":{
             "nome":"villacidro",
-            "porta":":3070",
+            "porta":"3070",
             "defPosition":[
                39.458172,
                8.740080
@@ -233,7 +233,7 @@
          },
          "santoreste":{
             "nome":"sant oreste",
-            "porta":":3071",
+            "porta":"3071",
             "defPosition":[
                42.235529,
                12.516378
@@ -256,7 +256,7 @@
          },
          "taurianova":{
             "nome":"taurianova",
-            "porta":":3072",
+            "porta":"3072",
             "defPosition":[
                38.353109,
                16.017077
