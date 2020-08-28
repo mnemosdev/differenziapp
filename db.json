@@ -70,81 +70,12 @@
                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
             ]
          },
-         "alzano lombardo":{
-            "nome":"alzano lombardo",
-            "porta":"3064",
-            "defPosition":[
-               45.7313435,
-               9.7275516
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
          "cene e gazzaniga":{
             "nome":"cene e gazzaniga",
             "porta":"3065",
             "defPosition":[
                45.7791973,
                9.8256118
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "pradalunga":{
-            "nome":"pradalunga",
-            "porta":"3066",
-            "defPosition":[
-               45.7485908,
-               9.7867757
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "villa di serio":{
-            "nome":"villa di serio",
-            "porta":"3067",
-            "defPosition":[
-               45.7210375,
-               9.7355755
             ],
             "contatti":{
                "telefono":"0123456789",
@@ -214,29 +145,6 @@
             "defPosition":[
                39.458172,
                8.740080
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "santoreste":{
-            "nome":"sant oreste",
-            "porta":"3071",
-            "defPosition":[
-               42.235529,
-               12.516378
             ],
             "contatti":{
                "telefono":"0123456789",
