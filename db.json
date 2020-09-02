@@ -1,12 +1,80 @@
 {
-   "configuration":{
-      "services":{
-         "sava":{
-            "nome":"sava",
-            "porta":"3061",
+    "configuration":{
+       "services":{
+          "sava":{
+             "nome":"sava",
+             "porta":"3061",
+             "defPosition":[
+                40.403889,
+                17.557054
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          },
+          "reggio calabria":{
+             "nome":"reggio calabria",
+             "porta":"3062",
+             "defPosition":[
+                38.116678,
+                15.659172
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2019/rc/area1a3.pdf"
+             ]
+          },
+          "ranica":{
+             "nome":"ranica",
+             "porta":"3063",
+             "defPosition":[
+                45.7270603,
+                9.713508
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          },
+          "grottaglie":{
+            "nome":"grottaglie",
+            "porta":"3064",
             "defPosition":[
-               40.403889,
-               17.557054
+                40.533868, 17.427409
             ],
             "contatti":{
                "telefono":"0123456789",
@@ -24,168 +92,123 @@
                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
             ]
          },
-         "reggio calabria":{
-            "nome":"reggio calabria",
-            "porta":"3062",
-            "defPosition":[
-               38.116678,
-               15.659172
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2019/rc/area1a3.pdf"
-            ]
-         },
-         "ranica":{
-            "nome":"ranica",
-            "porta":"3063",
-            "defPosition":[
-               45.7270603,
-               9.713508
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "cene e gazzaniga":{
-            "nome":"cene e gazzaniga",
-            "porta":"3065",
-            "defPosition":[
-               45.7791973,
-               9.8256118
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "morlupo":{
-            "nome":"morlupo",
-            "porta":"3068",
-            "defPosition":[
-               42.148050,
-               12.501879
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "marcellina":{
-            "nome":"marcellina",
-            "porta":"3069",
-            "defPosition":[
-               42.022937,
-               12.806628
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "villacidro":{
-            "nome":"villacidro",
-            "porta":"3070",
-            "defPosition":[
-               39.458172,
-               8.740080
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         },
-         "taurianova":{
-            "nome":"taurianova",
-            "porta":"3072",
-            "defPosition":[
-               38.353109,
-               16.017077
-            ],
-            "contatti":{
-               "telefono":"0123456789",
-               "email":"email@avrgroup.it",
-               "facebook":"pagina facebook",
-               "sede":"sede",
-               "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
-               "numeroverde":"800 000 000",
-               "fax":"fax",
-               "comune_email":"email del comune",
-               "comune_telefono":"telefono del comune"
-            },
-            "img":"null",
-            "ecocalendario":[
-               "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-            ]
-         }
-      },
-      "version":"3.0.0"
-   }
-}
+          "cene e gazzaniga":{
+             "nome":"cene e gazzaniga",
+             "porta":"3065",
+             "defPosition":[
+                45.7791973,
+                9.8256118
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          },
+          "morlupo":{
+             "nome":"morlupo",
+             "porta":"3068",
+             "defPosition":[
+                42.148050,
+                12.501879
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          },
+          "marcellina":{
+             "nome":"marcellina",
+             "porta":"3069",
+             "defPosition":[
+                42.022937,
+                12.806628
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          },
+          "villacidro":{
+             "nome":"villacidro",
+             "porta":"3070",
+             "defPosition":[
+                39.458172,
+                8.740080
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          },
+          "taurianova":{
+             "nome":"taurianova",
+             "porta":"3072",
+             "defPosition":[
+                38.353109,
+                16.017077
+             ],
+             "contatti":{
+                "telefono":"0123456789",
+                "email":"email@avrgroup.it",
+                "facebook":"pagina facebook",
+                "sede":"sede",
+                "sede_indirizzo":"Via Francesco Tensi, 116, 00133 (Roma)",
+                "numeroverde":"800 000 000",
+                "fax":"fax",
+                "comune_email":"email del comune",
+                "comune_telefono":"telefono del comune"
+             },
+             "img":"null",
+             "ecocalendario":[
+                "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+             ]
+          }
+       },
+       "version":"3.0.0"
+    }
+ }
+ 
