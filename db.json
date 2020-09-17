@@ -24,6 +24,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "reggio calabria": {
@@ -49,6 +52,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2019/rc/area1a3.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "ranica": {
@@ -74,6 +80,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "grottaglie": {
@@ -99,6 +108,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/calendario_diffapp/ecocalendario_grottaglie.pdf"
+        ],
+        "dovelobutto": [
+          "https://www.avrgroup.it/public/differenziapp2020/Ecodizionario_DEF%20f.to%20A5.pdf"
         ]
       },
       "cene e gazzaniga": {
@@ -124,6 +136,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "morlupo": {
@@ -149,6 +164,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "marcellina": {
@@ -174,6 +192,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "villacidro": {
@@ -199,6 +220,9 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       },
       "taurianova": {
@@ -224,9 +248,12 @@
         "img": "null",
         "ecocalendario": [
           "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+        ],
+        "dovelobutto": [
+          "null"
         ]
       }
     },
-    "version": "3.0.0"
+    "version": "3.0.1"
   }
 }
