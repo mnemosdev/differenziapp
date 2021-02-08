@@ -67,39 +67,6 @@
             "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
           ]
         },
-        "ranica": {
-          "nome": "ranica",
-          "porta": "3063",
-          "defPosition": [
-            45.7270603,
-            9.713508
-          ],
-          "contatti": {
-            "azienda": "AVR S.p.A.",
-            "azienda_mail": "avrgroup.ita@gmail.com",
-            "telefono": "-",
-            "email": "chiuduno@avrgroup.it",
-            "facebook": "-",
-            "sede": "Sede di Chiuduno",
-            "sede_indirizzo": "Via del Molino 27, Chiuduno",
-            "numeroverde": "800 020 850",
-            "fax": "035 4496783",
-            "comune_email": "tecnico@comune.ranica.bg.it",
-            "comune_telefono": "-"
-          },
-          "img": "null",
-          "ecocalendario": [
-            "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-          ],
-          "dovelobutto": [
-            "null"
-          ],
-          "info": [
-            "Max n. 2 Pezzi",
-            "Lunghezza massima mt. 2,50",
-            "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-          ]
-        },
         "grottaglie": {
           "nome": "grottaglie",
           "porta": "3064",
@@ -133,39 +100,6 @@
             "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
           ]
         },
-        "cene e gazzaniga": {
-          "nome": "cene e gazzaniga",
-          "porta": "3065",
-          "defPosition": [
-            45.7791973,
-            9.8256118
-          ],
-          "contatti": {
-            "azienda": "AVR S.p.A.",
-            "azienda_mail": "avrgroup.ita@gmail.com",
-            "telefono": "0123456789",
-            "email": "chiuduno@avrgroup.it",
-            "facebook": "-",
-            "sede": "Sede di Chiuduno",
-            "sede_indirizzo": "Via del Molino 27, Chiuduno",
-            "numeroverde": "800 020 850",
-            "fax": "035 4496783",
-            "comune_email": "territorio@comune.cene.bg.it",
-            "comune_telefono": "-"
-          },
-          "img": "null",
-          "ecocalendario": [
-            "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-          ],
-          "dovelobutto": [
-            "null"
-          ],
-          "info": [
-            "Max n. 2 Pezzi",
-            "Lunghezza massima mt. 2,50",
-            "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-          ]
-        },
         "morlupo": {
           "nome": "morlupo",
           "porta": "3068",
@@ -184,39 +118,6 @@
             "numeroverde": "800 758 650",
             "fax": "-",
             "comune_email": "info@comune.morlupo.roma.it",
-            "comune_telefono": "-"
-          },
-          "img": "null",
-          "ecocalendario": [
-            "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-          ],
-          "dovelobutto": [
-            "null"
-          ],
-          "info": [
-            "Max n. 2 Pezzi",
-            "Lunghezza massima mt. 2,50",
-            "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-          ]
-        },
-        "marcellina": {
-          "nome": "marcellina",
-          "porta": "3069",
-          "defPosition": [
-            42.022937,
-            12.806628
-          ],
-          "contatti": {
-            "azienda": "AVR S.p.A.",
-            "azienda_mail": "avrgroup.ita@gmail.com",
-            "telefono": "-",
-            "email": "igiene.roma@avrgroup.it",
-            "facebook": "-",
-            "sede": "Sede di Roma",
-            "sede_indirizzo": "Via Francesco Tensi, 116, 00133 (Roma)",
-            "numeroverde": "800 758 650",
-            "fax": "-",
-            "comune_email": "info@comune.marcellina.roma.it",
             "comune_telefono": "-"
           },
           "img": "null",
