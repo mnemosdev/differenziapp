@@ -34,39 +34,6 @@
             "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
           ]
         },
-        "reggio calabria": {
-          "nome": "reggio calabria",
-          "porta": "3062",
-          "defPosition": [
-            38.116678,
-            15.659172
-          ],
-          "contatti": {
-            "azienda": "AVR S.p.A.",
-            "azienda_mail": "avrgroup.ita@gmail.com",
-            "telefono": "-",
-            "email": "igiene.reggio@avrgroup.it",
-            "facebook": "-",
-            "sede": "Sede di Reggio Calabria",
-            "sede_indirizzo": "-",
-            "numeroverde": "800 759 650",
-            "fax": "0965 415071",
-            "comune_email": "-",
-            "comune_telefono": "-"
-          },
-          "img": "null",
-          "ecocalendario": [
-            "https://www.avrgroup.it/admin/../public/calendario_diffapp/rc2021/calendariorc.pdf"
-          ],
-          "dovelobutto": [
-            "null"
-          ],
-          "info": [
-            "Max n. 2 Pezzi",
-            "Lunghezza massima mt. 2,50",
-            "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-          ]
-        },
         "grottaglie": {
           "nome": "grottaglie",
           "porta": "3064",
