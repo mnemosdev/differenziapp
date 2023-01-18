@@ -34,6 +34,39 @@
           "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
         ]
       },
+      "capurso": {
+        "nome": "capurso",
+        "porta": "3062",
+        "defPosition": [
+          41.046635,
+          16.921881
+        ],
+        "contatti": {
+          "azienda": "Teorema S.p.A.",
+          "azienda_mail": "teoremaspa@pec.it",
+          "telefono": "-",
+          "email": "teoremaspa@pec.it",
+          "facebook": "-",
+          "sede": "-",
+          "sede_indirizzo": "-",
+          "numeroverde": "800 131 026",
+          "fax": "-",
+          "comune_email": "comunecapurso@pec.rupar.puglia.it",
+          "comune_telefono": "080 455 1124"
+        },
+        "img": "null",
+        "ecocalendario": [
+          "https://www.avrgroup.it/public/Teorema/Calendari_raccolta.jpg"
+        ],
+        "dovelobutto": [
+          "null"
+        ],
+        "info": [
+          "Max n. 2 Pezzi",
+          "Lunghezza massima mt. 2,50",
+          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+        ]
+      },
       "grottaglie": {
         "nome": "grottaglie",
         "porta": "3064",
