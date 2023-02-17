@@ -1,205 +1,238 @@
 {
   "configuration": {
-    "services": {
-      "sava": {
-        "nome": "sava",
-        "porta": "3061",
-        "defPosition": [
-          40.403889,
-          17.557054
-        ],
-        "contatti": {
-          "azienda": "Teorema S.p.A.",
-          "azienda_mail": "igiene.sava@teoremaspa.it",
-          "telefono": "-",
-          "email": "igiene.sava@teoremaspa.it",
-          "facebook": "-",
-          "sede": "-",
-          "sede_indirizzo": "-",
-          "numeroverde": "800 131 026",
-          "fax": "-",
-          "comune_email": "comune.sava@pec.rupar.puglia.it",
-          "comune_telefono": "099 972 7920"
-        },
-        "img": "null",
-        "ecocalendario": [
-          "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-        ],
-        "dovelobutto": [
-          "null"
-        ],
-        "info": [
-          "Max n. 2 Pezzi",
-          "Lunghezza massima mt. 2,50",
-          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-        ]
+      "services": {
+          "sava": {
+              "nome": "sava",
+              "porta": "3061",
+              "defPosition": [
+                  40.403889,
+                  17.557054
+              ],
+              "contatti": {
+                  "azienda": "Teorema S.p.A.",
+                  "azienda_mail": "igiene.sava@teoremaspa.it",
+                  "telefono": "-",
+                  "email": "igiene.sava@teoremaspa.it",
+                  "facebook": "-",
+                  "sede": "-",
+                  "sede_indirizzo": "-",
+                  "numeroverde": "800 131 026",
+                  "fax": "-",
+                  "comune_email": "comune.sava@pec.rupar.puglia.it",
+                  "comune_telefono": "099 972 7920"
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+              ],
+              "dovelobutto": [
+                  "null"
+              ],
+              "info": [
+                  "Max n. 2 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          },
+          "capurso": {
+              "nome": "capurso",
+              "porta": "3062",
+              "defPosition": [
+                  41.046635,
+                  16.921881
+              ],
+              "contatti": {
+                  "azienda": "Teorema S.p.A.",
+                  "azienda_mail": "teoremaspa@pec.it",
+                  "telefono": "-",
+                  "email": "igiene.capurso@teoremaspa.it",
+                  "facebook": "-",
+                  "sede": "-",
+                  "sede_indirizzo": "-",
+                  "numeroverde": "800 131 026",
+                  "fax": "-",
+                  "comune_email": "-",
+                  "comune_telefono": "0804551014 "
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/public/Teorema/Calendari_raccolta.jpg"
+              ],
+              "dovelobutto": [
+                  "null"
+              ],
+              "info": [
+                  "Max n. 2 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          },
+          "grottaglie": {
+              "nome": "grottaglie",
+              "porta": "3064",
+              "defPosition": [
+                  40.533868,
+                  17.427409
+              ],
+              "contatti": {
+                  "azienda": "Teorema S.p.A.",
+                  "azienda_mail": "igiene.grottaglie@teoremaspa.it",
+                  "telefono": "-",
+                  "email": "igiene.grottaglie@teoremaspa.it",
+                  "facebook": "-",
+                  "sede": "-",
+                  "sede_indirizzo": "-",
+                  "numeroverde": "800 131 026",
+                  "fax": "-",
+                  "comune_email": "comunegrottaglie@pec.rupar.puglia.it",
+                  "comune_telefono": "099 56 201"
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/admin/../public/calendario_diffapp/ecocalendario_grottaglie.pdf"
+              ],
+              "dovelobutto": [
+                  "https://www.avrgroup.it/public/differenziapp2020/Ecodizionario_DEF%20f.to%20A5.pdf"
+              ],
+              "info": [
+                  "Max n. 4 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          },
+          "morlupo": {
+              "nome": "morlupo",
+              "porta": "3068",
+              "defPosition": [
+                  42.148050,
+                  12.501879
+              ],
+              "contatti": {
+                  "azienda": "AVR S.p.A.",
+                  "azienda_mail": "avrgroup.ita@gmail.com",
+                  "telefono": "-",
+                  "email": "igiene.roma@avrgroup.it",
+                  "facebook": "-",
+                  "sede": "Sede di Roma",
+                  "sede_indirizzo": "Via Francesco Tensi, 116, 00133 (Roma)",
+                  "numeroverde": "800 758 650",
+                  "fax": "-",
+                  "comune_email": "info@comune.morlupo.roma.it",
+                  "comune_telefono": "-"
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+              ],
+              "dovelobutto": [
+                  "null"
+              ],
+              "info": [
+                  "Max n. 2 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          },
+          "villacidro": {
+              "nome": "villacidro",
+              "porta": "3070",
+              "defPosition": [
+                  39.458172,
+                  8.740080
+              ],
+              "contatti": {
+                  "azienda": "AVR S.p.A.",
+                  "azienda_mail": "avrgroup.ita@gmail.com",
+                  "telefono": "-",
+                  "email": "igiene.villacidro@avrgroup.it",
+                  "facebook": "-",
+                  "sede": "sede",
+                  "sede_indirizzo": "Via Francesco Tensi, 116, 00133 (Roma)",
+                  "numeroverde": "800 342 999",
+                  "fax": "-",
+                  "comune_email": "comune.villacidro.vs.it",
+                  "comune_telefono": "-"
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+              ],
+              "dovelobutto": [
+                  "null"
+              ],
+              "info": [
+                  "Max n. 2 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          },
+          "taurianova": {
+              "nome": "taurianova",
+              "porta": "3072",
+              "defPosition": [
+                  38.353109,
+                  16.017077
+              ],
+              "contatti": {
+                  "azienda": "AVR S.p.A.",
+                  "azienda_mail": "avrgroup.ita@gmail.com",
+                  "telefono": "-",
+                  "email": "serviziambientali.reggio@avrgroup.it",
+                  "facebook": "-",
+                  "sede": "Sede di Reggio Calabria",
+                  "sede_indirizzo": "-",
+                  "numeroverde": "800 759 650",
+                  "fax": "0965 415071",
+                  "comune_email": "comune.taurianova@asmepec.it",
+                  "comune_telefono": "-"
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/admin/../public/differenziapp22/taurianova2022.pdf"
+              ],
+              "dovelobutto": [
+                  "null"
+              ],
+              "info": [
+                  "Max n. 2 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          },
+          "fara in sabina": {
+              "nome": "fara in sabina",
+              "porta": "3073",
+              "defPosition": [
+                  42.209227,
+                  12.728901
+              ],
+              "contatti": {
+                  "azienda": "AVR S.p.A.",
+                  "azienda_mail": "avrgroup.ita@gmail.com",
+                  "telefono": "-",
+                  "email": "-",
+                  "facebook": "-",
+                  "sede": "-",
+                  "sede_indirizzo": "-",
+                  "numeroverde": "800 759 650",
+                  "fax": "-",
+                  "comune_email": "-",
+                  "comune_telefono": "-"
+              },
+              "img": "null",
+              "ecocalendario": [
+                  "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
+              ],
+              "dovelobutto": [
+                  "null"
+              ],
+              "info": [
+                  "Max n. 2 Pezzi",
+                  "Lunghezza massima mt. 2,50",
+                  "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
+              ]
+          }
       },
-      "grottaglie": {
-        "nome": "grottaglie",
-        "porta": "3064",
-        "defPosition": [
-          40.533868,
-          17.427409
-        ],
-        "contatti": {
-          "azienda": "Teorema S.p.A.",
-          "azienda_mail": "igiene.grottaglie@teoremaspa.it",
-          "telefono": "-",
-          "email": "igiene.grottaglie@teoremaspa.it",
-          "facebook": "-",
-          "sede": "-",
-          "sede_indirizzo": "-",
-          "numeroverde": "800 131 026",
-          "fax": "-",
-          "comune_email": "comunegrottaglie@pec.rupar.puglia.it",
-          "comune_telefono": "099 56 201"
-        },
-        "img": "null",
-        "ecocalendario": [
-          "https://www.avrgroup.it/admin/../public/calendario_diffapp/ecocalendario_grottaglie.pdf"
-        ],
-        "dovelobutto": [
-          "https://www.avrgroup.it/public/differenziapp2020/Ecodizionario_DEF%20f.to%20A5.pdf"
-        ],
-        "info": [
-          "Max n. 4 Pezzi",
-          "Lunghezza massima mt. 2,50",
-          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-        ]
-      },
-      "morlupo": {
-        "nome": "morlupo",
-        "porta": "3068",
-        "defPosition": [
-          42.148050,
-          12.501879
-        ],
-        "contatti": {
-          "azienda": "AVR S.p.A.",
-          "azienda_mail": "avrgroup.ita@gmail.com",
-          "telefono": "-",
-          "email": "igiene.roma@avrgroup.it",
-          "facebook": "-",
-          "sede": "Sede di Roma",
-          "sede_indirizzo": "Via Francesco Tensi, 116, 00133 (Roma)",
-          "numeroverde": "800 758 650",
-          "fax": "-",
-          "comune_email": "info@comune.morlupo.roma.it",
-          "comune_telefono": "-"
-        },
-        "img": "null",
-        "ecocalendario": [
-          "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-        ],
-        "dovelobutto": [
-          "null"
-        ],
-        "info": [
-          "Max n. 2 Pezzi",
-          "Lunghezza massima mt. 2,50",
-          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-        ]
-      },
-      "villacidro": {
-        "nome": "villacidro",
-        "porta": "3070",
-        "defPosition": [
-          39.458172,
-          8.740080
-        ],
-        "contatti": {
-          "azienda": "AVR S.p.A.",
-          "azienda_mail": "avrgroup.ita@gmail.com",
-          "telefono": "-",
-          "email": "igiene.villacidro@avrgroup.it",
-          "facebook": "-",
-          "sede": "sede",
-          "sede_indirizzo": "Via Francesco Tensi, 116, 00133 (Roma)",
-          "numeroverde": "800 342 999",
-          "fax": "-",
-          "comune_email": "comune.villacidro.vs.it",
-          "comune_telefono": "-"
-        },
-        "img": "null",
-        "ecocalendario": [
-          "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-        ],
-        "dovelobutto": [
-          "null"
-        ],
-        "info": [
-          "Max n. 2 Pezzi",
-          "Lunghezza massima mt. 2,50",
-          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-        ]
-      },
-      "taurianova": {
-        "nome": "taurianova",
-        "porta": "3072",
-        "defPosition": [
-          38.353109,
-          16.017077
-        ],
-        "contatti": {
-          "azienda": "AVR S.p.A.",
-          "azienda_mail": "avrgroup.ita@gmail.com",
-          "telefono": "-",
-          "email": "serviziambientali.reggio@avrgroup.it",
-          "facebook": "-",
-          "sede": "Sede di Reggio Calabria",
-          "sede_indirizzo": "-",
-          "numeroverde": "800 759 650",
-          "fax": "0965 415071",
-          "comune_email": "comune.taurianova@asmepec.it",
-          "comune_telefono": "-"
-        },
-        "img": "null",
-        "ecocalendario": [
-          "https://www.avrgroup.it/admin/../public/differenziapp22/taurianova2022.pdf"
-        ],
-        "dovelobutto": [
-          "null"
-        ],
-        "info": [
-          "Max n. 2 Pezzi",
-          "Lunghezza massima mt. 2,50",
-          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-        ]
-      },
-      "fara in sabina": {
-        "nome": "fara in sabina",
-        "porta": "3073",
-        "defPosition": [
-          42.209227,
-          12.728901
-        ],
-        "contatti": {
-          "azienda": "AVR S.p.A.",
-          "azienda_mail": "avrgroup.ita@gmail.com",
-          "telefono": "-",
-          "email": "-",
-          "facebook": "-",
-          "sede": "-",
-          "sede_indirizzo": "-",
-          "numeroverde": "800 759 650",
-          "fax": "-",
-          "comune_email": "-",
-          "comune_telefono": "-"
-        },
-        "img": "null",
-        "ecocalendario": [
-          "https://www.avrgroup.it/admin/../public/differenziapp2020/Calendario%20Sava%20UD%20Rev.3%20del%2020.02.2020_DEF.pdf"
-        ],
-        "dovelobutto": [
-          "null"
-        ],
-        "info": [
-          "Max n. 2 Pezzi",
-          "Lunghezza massima mt. 2,50",
-          "Oltre i suddetti limiti il conferimento potrà avvenire direttamente a cura dell'utente presso il Centro di Raccolta Comunale"
-        ]
-      }
-    },
-    "version": "3.0.1"
+      "version": "3.0.1"
   }
 }
